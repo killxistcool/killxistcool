@@ -11,7 +11,7 @@ Currently working on **???**. (Coming 2027)
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=lua" />
+<img src="https://skillicons.dev/icons?i=lua,py" />
 </p>
 
 Always improving :)
