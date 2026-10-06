@@ -31,7 +31,7 @@ Currently focused on C++, with more to come.
 ## Platforms & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,robloxstudio,github,apple,windows,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,robloxstudio,github,apple,windows,linux" />
 </p>
 
 ---
